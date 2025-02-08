@@ -159,7 +159,7 @@ export const speciesStarterCosts = {
   [Species.ENTEI]: 6,
   [Species.SUICUNE]: 6,
   [Species.LARVITAR]: 4,
-  [Species.LUGIA]: 8,
+  [Species.LUGIA]: 1,
   [Species.HO_OH]: 8,
   [Species.CELEBI]: 5,
 
