@@ -105,7 +105,7 @@ export const speciesStarterCosts = {
   [Species.ZAPDOS]: 6,
   [Species.MOLTRES]: 6,
   [Species.DRATINI]: 4,
-  [Species.MEWTWO]: 8,
+  [Species.MEWTWO]: 1,
   [Species.MEW]: 5,
 
   [Species.CHIKORITA]: 2,
@@ -288,7 +288,7 @@ export const speciesStarterCosts = {
   [Species.MANAPHY]: 7,
   [Species.DARKRAI]: 7,
   [Species.SHAYMIN]: 5,
-  [Species.ARCEUS]: 9,
+  [Species.ARCEUS]: 1,
 
   [Species.VICTINI]: 7,
   [Species.SNIVY]: 3,
@@ -598,8 +598,8 @@ export const speciesStarterCosts = {
   [Species.CHI_YU]: 7,
   [Species.ROARING_MOON]: 7,
   [Species.IRON_VALIANT]: 6,
-  [Species.KORAIDON]: 9,
-  [Species.MIRAIDON]: 9,
+  [Species.KORAIDON]: 1,
+  [Species.MIRAIDON]: 1,
   [Species.WALKING_WAKE]: 7,
   [Species.IRON_LEAVES]: 6,
   [Species.POLTCHAGEIST]: 4,
