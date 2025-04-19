@@ -1,6 +1,6 @@
 import { Species } from "#enums/species";
 
-export const POKERUS_STARTER_COUNT = 5;
+export const POKERUS_STARTER_COUNT = 100;
 
 // #region Friendship constants
 export const CLASSIC_CANDY_FRIENDSHIP_MULTIPLIER = 3;
